@@ -11,6 +11,8 @@ Educators can own, transfer, and display these badges, creating an interactive, 
 
 ## Contract Address
 0xF857845C66033c1dD38B61Afa69394211578F368
+![image](https://github.com/user-attachments/assets/7b3d1bc6-c0d3-4d23-b46b-fd3a84fd785f)
+
 
 ## Project Vision
 The vision of **Educator NFT Gamification** is to create a decentralized and transparent ecosystem that rewards educators for their achievements through blockchain technology. By gamifying educator recognition through NFTs, the system helps enhance the engagement and motivation of educators while allowing them to build a verifiable digital portfolio. It aims to contribute to the education ecosystem by offering a transparent way to track and reward educators.
