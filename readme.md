@@ -11,7 +11,9 @@ Educators can own, transfer, and display these badges, creating an interactive, 
 
 ## Contract Address
 0xF857845C66033c1dD38B61Afa69394211578F368
-![image](https://github.com/user-attachments/assets/7b3d1bc6-c0d3-4d23-b46b-fd3a84fd785f)
+
+![image](https://github.com/user-attachments/assets/641e526b-a2f5-4d38-a73d-1798f8f8b110)
+
 
 
 ## Project Vision
